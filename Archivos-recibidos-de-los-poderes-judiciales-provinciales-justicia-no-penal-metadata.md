@@ -30,7 +30,7 @@ Recursos disponibles
 
 -   **Nombre:** pj-no-penal-archivos-recibidos-AAAA.zip
 
--   **Descripción del contenido:** Contiene los archivos recibidos de los poderes judiciales referidos a causas no penales en el año AAAA. El nombre de cada archivo corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión II](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos-version-II/blob/master/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia%20versi%C3%B3n%20II.pdf), (tabla3, tabla3.1, tabla4, tabla4.1 y tabla4.2) y número de orden de la tabla dentro del envío.
+-   **Descripción del contenido:** Contiene los archivos recibidos de los poderes judiciales referidos a causas no penales en el año AAAA. El nombre de cada archivo corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según [Convenio Interjurisdiccional de Datos Abiertos de Justicia](https://github.com/datos-justicia-argentina/Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos/blob/master/Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia.pdf), (tabla3, tabla3.1, tabla4, tabla4.1 y tabla4.2) y número de orden de la tabla dentro del envío.
 
 -   **Formato:** ZIP
 
