@@ -40,7 +40,7 @@ Recursos disponibles
 
 -   **Nombre:** indice-archivos-recibidos-poder-judicial-no-penal-AAAA.csv
 
--   **Descripción del contenido:** Este recurso es un índice de los archivos recibidos de los poderes judiciales referidas a causas no penales en el año AAAA en el marco del [Convenio Interjurisdiccional de Datos Abiertos de Justicia]((https://github.com/datos-justicia-argentina/Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos/blob/master/Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia.pdf)
+-   **Descripción del contenido:** Este recurso es un índice de los archivos recibidos de los poderes judiciales referidas a causas no penales en el año AAAA en el marco del [Convenio Interjurisdiccional de Datos Abiertos de Justicia](https://github.com/datos-justicia-argentina/Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos/blob/master/Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia.pdf)
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
