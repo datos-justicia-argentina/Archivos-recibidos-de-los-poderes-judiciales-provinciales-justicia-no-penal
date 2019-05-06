@@ -221,7 +221,7 @@ Recursos disponibles
 
 [Código Procesal Civil y Comercial de la provincia de Santa Cruz - Ley 1.418](http://www.saij.gob.ar/legislacion/ley-santa_cruz-1418-codigo_procesal_civil_comercial.htm)
 
-[Código Procesal Civil y Comercial de la provincia de Santa Fe - Ley 136](http://www.saij.gob.ar/5531-local-santa-fe-codigo-procesal-civil-comercial-lps0000136-1961-10-30/123456789-0abc-defg-631-0000svorpyel) y [Modificación de los Artículos 232, 233, 236, 241, 244 y 333 – Ley 13.615]( http://www.saij.gob.ar/13615-local-santa-fe-modificacion-codigo-procesal-civil-comercial-plazo-caducidad-proceso-notificacion-costas-computo-plazo-caducidad-para-procesos-modificacion-articulos-232-233-236-241-244-333-lps0013615-2016-12-22/123456789-0abc-defg-516-3100svorpyel)
+[Código Procesal Civil y Comercial de la provincia de Santa Fe - Ley 136](http://www.saij.gob.ar/5531-local-santa-fe-codigo-procesal-civil-comercial-lps0000136-1961-10-30/123456789-0abc-defg-631-0000svorpyel) y [Modificación de los Artículos 232, 233, 236, 241, 244 y 333 - Ley 13.615]( http://www.saij.gob.ar/13615-local-santa-fe-modificacion-codigo-procesal-civil-comercial-plazo-caducidad-proceso-notificacion-costas-computo-plazo-caducidad-para-procesos-modificacion-articulos-232-233-236-241-244-333-lps0013615-2016-12-22/123456789-0abc-defg-516-3100svorpyel)
 
 [Código Procesal Civil y Comercial de la provincia de Santiago del Estero - Ley 3.534](http://www.saij.gob.ar/legislacion/ley-santiago_del_estero-3534-codigo_procesal_civil_comercial.htm)
 
