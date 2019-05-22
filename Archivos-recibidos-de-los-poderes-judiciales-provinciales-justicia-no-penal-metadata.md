@@ -1,9 +1,9 @@
-Datos recibidos de los poderes judiciales provinciales - Justicia no penal
+Archivos recibidos de los poderes judiciales provinciales - Justicia no penal
 ==========================================================================
 
 Este conjunto de datos contiene los archivos recibidos de los poderes judiciales referidos a causas no penales según lo establecido en el [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión II](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos-version-II/blob/master/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia%20versi%C3%B3n%20II.pdf)., (tabla3, tabla3.1, tabla4, tabla4.1 y tabla4.2) y número de orden de la tabla dentro del envío.
 
-http://datos.jus.gob.ar/dataset/datos-recibidos-de-los-poderes-judiciales-de-las-provincias-justicia-no-penal
+http://datos.jus.gob.ar/dataset/archivos-recibidos-de-los-poderes-judiciales-de-las-provincias-justicia-no-penal
 
 Características
 ---------------
