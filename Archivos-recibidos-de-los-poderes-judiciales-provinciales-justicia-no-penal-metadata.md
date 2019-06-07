@@ -169,6 +169,32 @@ Recursos disponibles
 
 -   **Rango temporal:** archivos recibidos de los poderes judiciales provinciales en el año AAAA
 
+### Campos del recurso
+
+-   **provincia_id (string):** código de provincia del Poder Judicial que remitió datos para su publicación, según la codificación implementada por INDEC
+
+-   **provincia_nombre (string):** nombre de provincia del Poder Judicial que remitió datos para su publicación
+
+-   **institucion_nombre (string):** nombre de la institución que remitió datos para su publicación
+
+-   **envio_fecha (string):** fecha en la que el ministerio público provincial realizó el envío de datos.la fecha de envío no está directamente relacionada con las fechas de casos informadas. Los períodos informados pueden ser mensuales o abarcar períodos más largos. Tiene el formato AAAA-MM-DD
+
+-   **envio_tabla (string):** nombre de la tabla que fue enviada por el ministerio público provincial. Toma los valores:
+
+	-   tabla3
+
+	-   tabla3.1
+
+	-   tabla4
+
+	-   tabla4.1
+	
+	-   tabla4.2
+
+-   **publicacion_nombre_csv (string):** nombre del archivo publicado en formato csv. Este corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según el "Protocolo de Implementación del Convenio Interjurisdiccional de Datos Abiertos de Justicia versión II", (tabla3, tabla3.1, tabla4, tabla4.1 y tabla4.2) y número de orden de la tabla dentro del envío
+
+-   **publicacion_nombre_zip (string):** nombre del archivo publicado en formato zip. Este mantiene la siguiente estructura:pj-no-penal-datos-recibidos-AAAA
+
 ### Notas
 
 [Ley 27.275 - Derecho de Acceso a la Información Pública](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
