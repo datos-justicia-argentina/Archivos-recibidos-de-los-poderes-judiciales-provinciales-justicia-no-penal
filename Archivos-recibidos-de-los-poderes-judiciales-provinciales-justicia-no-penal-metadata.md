@@ -163,7 +163,7 @@ Recursos disponibles
 
 -   **Nombre:** indice-archivos-recibidos-poder-judicial-no-penal-AAAA.csv
 
--   **Descripción del contenido:** Este recurso es un índice de los archivos recibidos de los poderes judiciales referidas a causas no penales en 2018 en el marco del Convenio Interjurisdiccional de Datos Abiertos de Justicia
+-   **Descripción del contenido:** Este recurso es un índice de los archivos recibidos de los poderes judiciales referidas a causas no penales en AAAA en el marco del Convenio Interjurisdiccional de Datos Abiertos de Justicia
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
