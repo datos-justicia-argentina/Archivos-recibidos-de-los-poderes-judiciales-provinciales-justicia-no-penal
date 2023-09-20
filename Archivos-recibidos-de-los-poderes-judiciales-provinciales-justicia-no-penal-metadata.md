@@ -29,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre:** pj-no-penal-archivos-recibidos-AAAA.zip
 
--   **Descripción del contenido:** Contiene los archivos recibidos de los poderes judiciales referidos a causas no penales en 2018. El nombre de cada archivo corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia (tabla3, tabla3.1, tabla4, tabla4.1 y tabla4.2) y número de orden de la tabla dentro del envío.
+-   **Descripción del contenido:** Contiene los archivos recibidos de los poderes judiciales referidos a causas no penales en AAAA. El nombre de cada archivo corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia (tabla3, tabla3.1, tabla4, tabla4.1 y tabla4.2) y número de orden de la tabla dentro del envío.
 
 -   **Formato:** ZIP
 
