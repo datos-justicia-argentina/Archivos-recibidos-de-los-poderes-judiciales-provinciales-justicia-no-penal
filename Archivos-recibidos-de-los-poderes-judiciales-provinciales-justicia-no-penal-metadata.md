@@ -12,11 +12,11 @@ Características
 
 -   **Tags o Etiquetas:** actos procesales, causas, civil, instituciones, poderes judiciales
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Programa Justicia Abierta
+-   **Organización:** Ministerio de Justicia
 
--   **Autor:** Instituciones firmantes del Convenio Interjurisdiccional de Datos Abiertos de Justicia
+-   **Autor:** Ministerio de Justicia
 
--   **Responsable:** Instituciones firmantes del Convenio Interjurisdiccional de Datos Abiertos de Justicia
+-   **Responsable:** Ministerio de Justicia
 
 -   **Grupo:** Instituciones de Justicia
 
